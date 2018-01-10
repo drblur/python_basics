@@ -44,7 +44,7 @@ for i in range(31):
     print walk, "the distance from home :", abs(walk[0])+ abs(walk[1])
 
 ## calculating the percentage of random walks in the range of 1 to 31 that are 4 blocks or
-## less from the origin to avoid spending on cab
+## less from the origin to avoid spending on cab!
 
 no_of_walks = 10000
 walk_length = 31
